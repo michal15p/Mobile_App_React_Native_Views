@@ -11,4 +11,5 @@
   <img src="gifs/Logging.gif" title="Logging - views and functionalities"/>
   <img src="gifs/Weather.gif" title="Weather - views and functionalities"/>
   <img src="gifs/Profile.gif" title="Profile - views and functionalities"/>
+  <img src="gifs/Responsibility.gif" title="Responsibility"/>
 </div>
